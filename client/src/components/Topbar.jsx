@@ -14,7 +14,7 @@ const Topbar = () => {
       <div className="TopbarElements flex justify-between items-center mx-4">
 
         <div className="flex items-center">
-          <img src="../public/Logo.png" className="mt-6 h-15 w-32" alt="Logo" />
+          <img src="./public/Logo.png" className="mt-6 h-15 w-32" alt="Logo" />
         </div>
 
         <div className="hidden md:flex space-x-4">
