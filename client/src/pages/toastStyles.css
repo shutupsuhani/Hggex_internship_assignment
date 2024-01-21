@@ -1,0 +1,14 @@
+/* toastStyles.css */
+
+/* Custom styles for success toast */
+.custom-success-toast {
+    background-color: #6ee649;
+    color: #fff;
+  }
+  
+  /* Custom styles for error toast */
+  .custom-error-toast {
+    background-color: #db2f2f;
+    color: #fff;
+  }
+  
